@@ -1,0 +1,15 @@
+extension_id: com.example.basicshiny
+extension_version: 1.1.3
+name: Basic Shiny App
+description: Create Basic Shiny Line Graph
+extended_description: |
+    This is an extension for Tableau dashboards that enables the easy creation of Line Graphs.
+author_name: Jace Riley
+author_email: jace.riley@usda.gov
+author_organization: RStudio, PBC
+website: https://github.com/rstudio/shinytableau/tree/master/inst/examples/ggviolin
+icon:
+    file: default_icon.png
+package: shinytableau
+permissions: full data
+min_api_version: '1.4'
